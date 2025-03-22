@@ -68,3 +68,12 @@
 [00:27:21] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  and click the "Setup plugin" button to configure your plugin.
 [00:27:21] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
 [00:45:55] [Netty epoll Worker #3/WARN] [eaglerxvelocity]: Server icon is not a file: /workspaces/EaglerXVelocity/velocity/server-icon.png
+[00:49:45] [Netty epoll Worker #5/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:48388]: Connected via websocket
+[00:49:45] [Netty epoll Worker #5/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:48388]: Origin header is null
+[00:49:45] [Netty epoll Worker #5/INFO] [eaglerxvelocity]: [connected player] Putinn (/[0:0:0:0:0:0:0:1%0]:48388) has connected
+[00:49:45] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> lobby has connected
+[00:49:51] [nLogin - Task Executor #0/INFO] [nlogin]: The user Putinn has successfully registered.
+[00:49:52] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> survival has connected
+[00:49:52] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> lobby has disconnected
+[00:50:05] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Putinn (/[0:0:0:0:0:0:0:1%0]:48388) has disconnected
+[00:50:05] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> survival has disconnected

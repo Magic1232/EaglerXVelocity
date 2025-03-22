@@ -36,3 +36,6 @@
 [2025/03/22 00:27:21]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
 [2025/03/22 00:27:21]:  §eand click the "Setup plugin" button to configure your plugin.
 [2025/03/22 00:27:21]: 
+[2025/03/22 00:49:51]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('Putinn', 891a97b347bc3a0b8b2ef8b633d151f2, null, null, '$2a$10$kyekXqj6schAD5ixme4OOu99J54.cWfRvmneqPrDDpuN027Zmem7O', '0:0:0:0:0:0:0:1%0', '2025-03-22 00:49:51.64', '2025-03-22 00:49:51.64', null, null, null)" (applied to all columns)
+[2025/03/22 00:49:51]: [nLogin] The user Putinn has successfully registered.
+[2025/03/22 00:50:05]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Putinn', `unique_id` = 891a97b347bc3a0b8b2ef8b633d151f2,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$kyekXqj6schAD5ixme4OOu99J54.cWfRvmneqPrDDpuN027Zmem7O', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-03-22 00:49:51.64, `last_seen` = 2025-03-22 00:50:05.947, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
