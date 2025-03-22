@@ -197,3 +197,14 @@
 [00:50:05] [Server thread/INFO]: Putinn lost connection: Disconnected
 [00:50:05] [Server thread/INFO]: Putinn left the game.
 [00:56:08] [Server thread/INFO]: Opped Putinn
+[01:00:19] [User Authenticator #2/INFO]: UUID of player Putinn is 891a97b3-47bc-3a0b-8b2e-f8b633d151f2
+[01:00:19] [Server thread/INFO]: Putinn[/[0:0:0:0:0:0:0:1]:35166] logged in with entity id 1188 at ([world]-1.999313603650388, 64.0, 235.5262208538898)
+[01:00:31] [Server thread/INFO]: Putinn issued server command: /g
+[01:00:31] [Server thread/INFO]: Putinn issued server command: /g
+[01:07:22] [Server thread/INFO]: Putinn issued server command: /plugins
+[01:08:52] [Server thread/INFO]: Putinn issued server command: /plugins folder
+[01:08:54] [Server thread/INFO]: Putinn issued server command: /plugins folder
+[01:08:58] [Server thread/INFO]: Putinn issued server command: /plugins
+[01:09:01] [Server thread/INFO]: Putinn issued server command: /plugins
+[01:09:34] [Async Chat Thread - #0/INFO]: <Putinn> java/bukkit_command/plugins
+[01:11:10] [Server thread/INFO]: Plugins (4): ViaVersion, ViaBackwards, ViaRewind, ViaRewind-Legacy-Support

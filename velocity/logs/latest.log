@@ -77,3 +77,10 @@
 [00:49:52] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> lobby has disconnected
 [00:50:05] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Putinn (/[0:0:0:0:0:0:0:1%0]:48388) has disconnected
 [00:50:05] [Netty epoll Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> survival has disconnected
+[01:00:10] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:47596]: Connected via websocket
+[01:00:10] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:47596]: Origin header is null
+[01:00:10] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] Putinn (/[0:0:0:0:0:0:0:1%0]:47596) has connected
+[01:00:10] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> lobby has connected
+[01:00:18] [nLogin - Task Executor #0/INFO] [nlogin]: The user Putinn has successfully logged in.
+[01:00:19] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> survival has connected
+[01:00:19] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Putinn -> lobby has disconnected
